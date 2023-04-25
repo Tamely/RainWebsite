@@ -48,49 +48,49 @@ export const MainScreen: FC<Props> = memo(function MainScreen(props = {}) {
       </div>
       <div className={classes.rectangle28}></div>
       <a
-          href='./car.html'
+          href='https://tamely.github.io/RainWebsite/#car'
           target='_blank'
           rel='noreferrer'
           className={classes.rectangle28}
         >
       </a>
       <a
-          href='./car.html'
+          href='https://tamely.github.io/RainWebsite/#car'
           target='_blank'
           rel='noreferrer'
           className={classes.rectangle27}
         >
       </a>
       <a
-          href='./vehicle.html'
+          href='https://tamely.github.io/RainWebsite/#vehicle'
           target='_blank'
           rel='noreferrer'
           className={classes.rectangle29}
         >
       </a>
       <a
-          href='./vehicle.html'
+          href='https://tamely.github.io/RainWebsite/#vehicle'
           target='_blank'
           rel='noreferrer'
           className={classes.rectangle30}
         >
       </a>
       <a
-          href='./labor.html'
+          href='https://tamely.github.io/RainWebsite/#labor'
           target='_blank'
           rel='noreferrer'
           className={classes.rectangle31}
         >
       </a>
       <a
-          href='./labor.html'
+          href='https://tamely.github.io/RainWebsite/#labor'
           target='_blank'
           rel='noreferrer'
           className={classes.rectangle32}
         >
       </a>
       <a
-          href='./dui.html'
+          href='https://tamely.github.io/RainWebsite/#dui'
           target='_blank'
           rel='noreferrer'
           className={classes.group9}
@@ -125,21 +125,21 @@ export const MainScreen: FC<Props> = memo(function MainScreen(props = {}) {
         >
       </a>
       <a
-          href='./car.html'
+          href='https://tamely.github.io/RainWebsite/#car'
           target='_blank'
           rel='noreferrer'
           className={classes.trafficStops}
         >Traffic Stops
       </a>
       <a
-          href='./dui.html'
+          href='https://tamely.github.io/RainWebsite/#dui'
           target='_blank'
           rel='noreferrer'
           className={classes.dUIInformation}
         >DUI Information
       </a>
       <a
-          href='./labor.html'
+          href='https://tamely.github.io/RainWebsite/#labor'
           target='_blank'
           rel='noreferrer'
           className={classes.laborAndEmployment}
@@ -160,28 +160,28 @@ export const MainScreen: FC<Props> = memo(function MainScreen(props = {}) {
         >RAIN Instagram
       </a>
       <a
-          href='./about.html'
+          href='https://tamely.github.io/RainWebsite/#about'
           target='_blank'
           rel='noreferrer'
           className={classes.rectangle314}
         >
       </a>
       <a
-          href='./about.html'
+          href='https://tamely.github.io/RainWebsite/#about'
           target='_blank'
           rel='noreferrer'
           className={classes.rectangle324}
         >
       </a>
       <a
-          href='./about.html'
+          href='https://tamely.github.io/RainWebsite/#about'
           target='_blank'
           rel='noreferrer'
           className={classes.aboutRain}
         >About Rain
       </a>
       <a
-          href='./vehicle.html'
+          href='https://tamely.github.io/RainWebsite/#vehicle'
           target='_blank'
           rel='noreferrer'
           className={classes.vehicleSearches}
