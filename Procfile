@@ -1,1 +1,1 @@
-worker: npm start
+web: bin/start-nginx-solo

@@ -1,12 +1,10 @@
 {
     "name": "rain-website-ts",
-    "private": true,
     "version": "0.0.0",
     "scripts": {
       "start": "vite",
       "dev": "vite",
-      "postinstall": "tsc && vite build",
-      "build": "tsc && vite build",
+      "build": "vite build",
       "preview": "vite preview"
     },
     "dependencies": {
