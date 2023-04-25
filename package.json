@@ -5,7 +5,7 @@
     "scripts": {
       "start": "vite",
       "dev": "vite",
-      "postinstall": "tcs && vite build",
+      "postinstall": "tsc && vite build",
       "build": "tsc && vite build",
       "preview": "vite preview"
     },
