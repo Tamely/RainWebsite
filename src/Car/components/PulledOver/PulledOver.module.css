@@ -1,0 +1,1503 @@
+.root {
+  position: relative;
+  width: 100vw;
+  height: 1076.410vw;
+  align-items: flex-start;
+  background-image: linear-gradient(180deg, #7476d0ff 0%, #143870ff 100%),
+    linear-gradient(180deg, #7476d0ff 0%, #14387eff 100%);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto, auto;
+  overflow: hidden;
+}
+.group22 {
+  position: absolute;
+  left: -11.538vw;
+  top: 771.795vw;
+  width: 117.692vw;
+  height: 129.241vw;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.group33 {
+  position: absolute;
+  left: -18.205vw;
+  top: 902.821vw;
+  width: 117.692vw;
+  height: 129.241vw;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.group34 {
+  position: absolute;
+  left: -16.410vw;
+  top: 1032.051vw;
+  width: 117.692vw;
+  height: 129.241vw;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.group18 {
+  position: absolute;
+  left: -16.923vw;
+  top: 253.333vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.group24 {
+  position: absolute;
+  left: -8.205vw;
+  top: 317.436vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.group25 {
+  position: absolute;
+  left: -15.897vw;
+  top: 381.282vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.group26 {
+  position: absolute;
+  left: -10.513vw;
+  top: 444.615vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.group27 {
+  position: absolute;
+  left: -6.667vw;
+  top: 509.231vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.group28 {
+  position: absolute;
+  left: -10.256vw;
+  top: 575.128vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon9 {
+  width: 100%;
+  height: 100%;
+}
+.group29 {
+  position: absolute;
+  left: -11.538vw;
+  top: 638.462vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.group30 {
+  position: absolute;
+  left: -7.949vw;
+  top: 704.359vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon11 {
+  width: 100%;
+  height: 100%;
+}
+.group17 {
+  position: absolute;
+  left: -10.513vw;
+  top: 184.103vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.group16 {
+  position: absolute;
+  left: -7.179vw;
+  top: 117.179vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle42 {
+  position: absolute;
+  left: 33.590vw;
+  top: 105.128vw;
+  width: 54.615vw;
+  height: 58.718vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle43 {
+  position: absolute;
+  left: 32.821vw;
+  top: 171.795vw;
+  width: 53.846vw;
+  height: 47.436vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle48 {
+  position: absolute;
+  left: 35.385vw;
+  top: 286.667vw;
+  width: 53.846vw;
+  height: 84.615vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle46 {
+  position: absolute;
+  left: 34.359vw;
+  top: 228.205vw;
+  width: 53.846vw;
+  height: 47.436vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.group4 {
+  position: absolute;
+  left: -5.385vw;
+  top: 54.872vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle39 {
+  position: absolute;
+  left: 10vw;
+  top: 74.359vw;
+  width: 20.513vw;
+  height: 22.564vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle40 {
+  position: absolute;
+  left: 10.769231vw;
+  top: 118.974365vw;
+  width: 20.513vw;
+  height: 22.564vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle44 {
+  position: absolute;
+  left: 9.231vw;
+  top: 184.103vw;
+  width: 20.513vw;
+  height: 22.564vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle45 {
+  position: absolute;
+  left: 12.308vw;
+  top: 238.718vw;
+  width: 20.513vw;
+  height: 22.564vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle47 {
+  position: absolute;
+  left: 12.308vw;
+  top: 308.974vw;
+  width: 20.769vw;
+  height: 22.564vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle41 {
+  position: absolute;
+  left: 10vw;
+  top: 74.359vw;
+  width: 20.513vw;
+  height: 22.564vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle27 {
+  position: absolute;
+  left: 11.795vw;
+  top: 73.333vw;
+  width: 20vw;
+  height: 21.282vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.rectangle28 {
+  position: absolute;
+  left: 32.821vw;
+  top: 75.385vw;
+  width: 55.128vw;
+  height: 21.538vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.group23 {
+  position: absolute;
+  left: -11.282vw;
+  top: -11.538vw;
+  width: 116.154vw;
+  height: 65.907vw;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.rain {
+  color: #01030f;
+  font-size: 25.641vw;
+  font-family: Comfortaa, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 23.077vw;
+  top: 27.949vw;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rain2 {
+  color: #fff;
+  font-size: 25.641vw;
+  font-family: Comfortaa, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 24.359vw;
+  top: 26.923vw;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle26 {
+  position: absolute;
+  left: 0.256vw;
+  top: 54.359vw;
+  width: 100vw;
+  height: 12.308vw;
+  background-color: #fff;
+}
+.pulledOver {
+  color: #000;
+  font-size: 4.744vw;
+  font-weight: bold;
+  font-family: Comfortaa, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 0.256vw;
+  top: 54.359vw;
+  width: 100vw;
+  height: 12.308vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle30 {
+  position: absolute;
+  left: 34.615vw;
+  top: 73.590vw;
+  width: 55.128vw;
+  height: 21.026vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.doNotPanic {
+  color: #000;
+  font-size: 7.692vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 37.179vw;
+  top: 75.641vw;
+  width: 51.026vw;
+  height: 16.154vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._1 {
+  color: #fff;
+  font-size: 12.821vw;
+  font-weight: 800;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.205vw;
+  top: 76.667vw;
+  width: 5.897vw;
+  height: 13.846vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle31 {
+  position: absolute;
+  left: 35.641vw;
+  top: 101.026vw;
+  width: 53.333vw;
+  height: 60vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.turnOnYourHazardLightsAndPullT {
+  position: absolute;
+  left: 41.026vw;
+  top: 101.282vw;
+  width: 42.308vw;
+  height: 58.462vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.labelWrapper {
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #000;
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label2 {
+  color: #000;
+  font-size: 6.410vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label3 {
+  color: #000;
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label4 {
+  color: #000;
+  font-size: 6.410vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label5 {
+  color: #000;
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label6 {
+  color: #000;
+  font-size: 6.410vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle32 {
+  position: absolute;
+  left: 12.051vw;
+  top: 117.692vw;
+  width: 20.256vw;
+  height: 21.282vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+._2 {
+  color: #fff;
+  font-size: 12.821vw;
+  font-weight: 800;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 19.231vw;
+  top: 120.769vw;
+  width: 5.897vw;
+  height: 13.846vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle33 {
+  position: absolute;
+  left: 35.385vw;
+  top: 167.436vw;
+  width: 53.590vw;
+  height: 49.231vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.ifItIsNightTurnOnTheInternalCa {
+  position: absolute;
+  left: 42.051vw;
+  top: 167.179vw;
+  width: 41.538vw;
+  height: 46.410vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label7 {
+  color: #000;
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label8 {
+  color: #000;
+  font-size: 6.410vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle34 {
+  position: absolute;
+  left: 10.769vw;
+  top: 183.333vw;
+  width: 20.256vw;
+  height: 21.282vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.rectangle35 {
+  position: absolute;
+  left: 36.410vw;
+  top: 223.846vw;
+  width: 53.590vw;
+  height: 49.231vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.stayStillInTheCarUntilTheOffic {
+  position: absolute;
+  left: 42.051vw;
+  top: 230vw;
+  width: 42.308vw;
+  height: 34.615vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.labelWrapper3 {
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label9 {
+  color: #000;
+  font-size: 6.410vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label10 {
+  color: #000;
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle36 {
+  position: absolute;
+  left: 13.846vw;
+  top: 237.949vw;
+  width: 20vw;
+  height: 21.282vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+._3 {
+  color: #fff;
+  font-size: 12.821vw;
+  font-weight: 800;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18.205vw;
+  top: 186.923vw;
+  width: 5.897vw;
+  height: 13.846vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+._4 {
+  color: #fff;
+  font-size: 12.821vw;
+  font-weight: 800;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.769vw;
+  top: 241.282vw;
+  width: 5.897vw;
+  height: 13.846vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle38 {
+  position: absolute;
+  left: 13.846vw;
+  top: 308.205vw;
+  width: 20.256vw;
+  height: 21.282vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+._5 {
+  color: #fff;
+  font-size: 12.821vw;
+  font-weight: 800;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.513vw;
+  top: 312.051vw;
+  width: 5.897vw;
+  height: 13.846vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle37 {
+  position: absolute;
+  left: 37.692vw;
+  top: 282.051vw;
+  width: 53.333vw;
+  height: 86.923vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.theDriverShouldPutTheirHandsOn {
+  position: absolute;
+  left: 40.513vw;
+  top: 282.821vw;
+  width: 47.179vw;
+  height: 84.615vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.labelWrapper4 {
+  font-size: 5.641vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label11 {
+  color: #000;
+  font-size: 5.641vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label12 {
+  color: #000;
+  font-size: 5.641vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock {
+  margin-top: 0;
+}
+.labelWrapper5 {
+  font-size: 5.641vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.textBlock2 {
+  margin-top: 0;
+}
+.labelWrapper6 {
+  font-size: 5.641vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label13 {
+  color: #000;
+  font-size: 5.641vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label14 {
+  color: #000;
+  font-size: 5.641vw;
+  font-weight: bold;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label15 {
+  color: #000;
+  font-size: 5.641vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label16 {
+  color: #000;
+  font-size: 5.641vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle49 {
+  position: absolute;
+  left: 35.641vw;
+  top: 380.256vw;
+  width: 54.103vw;
+  height: 84.872vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle53 {
+  position: absolute;
+  left: 15.128vw;
+  top: 483.333vw;
+  width: 34.872vw;
+  height: 57.179vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle56 {
+  position: absolute;
+  left: 48.462vw;
+  top: 554.615vw;
+  width: 36.410vw;
+  height: 27.179vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle59 {
+  position: absolute;
+  left: 14.103vw;
+  top: 603.077vw;
+  width: 33.846vw;
+  height: 19.744vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle50 {
+  position: absolute;
+  left: 12.821vw;
+  top: 402.564vw;
+  width: 20.513vw;
+  height: 22.564vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle51 {
+  position: absolute;
+  left: 14.359vw;
+  top: 401.795vw;
+  width: 20vw;
+  height: 21.538vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+._6 {
+  color: #fff;
+  font-size: 12.821vw;
+  font-weight: 800;
+  font-style: italic;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.026vw;
+  top: 405.641vw;
+  width: 5.897vw;
+  height: 13.846vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle54 {
+  position: absolute;
+  left: 58.718vw;
+  top: 502.821vw;
+  width: 30.256vw;
+  height: 20vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle55 {
+  position: absolute;
+  left: 61.026vw;
+  top: 502.308vw;
+  width: 29.487vw;
+  height: 18.718vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.rectangle52 {
+  position: absolute;
+  left: 37.949vw;
+  top: 375.641vw;
+  width: 53.590vw;
+  height: 87.179vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.uponRequestTheDriverShouldShow {
+  position: absolute;
+  left: 42.051vw;
+  top: 387.436vw;
+  width: 45.128vw;
+  height: 60.256vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.labelWrapper7 {
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label17 {
+  color: #000;
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label18 {
+  color: #000;
+  font-size: 6.410vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label19 {
+  color: #000;
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label20 {
+  color: #000;
+  font-size: 6.410vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label21 {
+  color: #000;
+  font-size: 6.410vw;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.label22 {
+  color: #000;
+  font-size: 6.410vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.download11 {
+  position: absolute;
+  left: 17.949vw;
+  top: 478.718vw;
+  width: 36.923vw;
+  height: 58.718vw;
+  background-image:/* webpackIgnore: true */ url('/assets/download11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.driversLicense {
+  color: #000;
+  font-size: 5.128vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 61.026vw;
+  top: 508.718vw;
+  width: 29.487vw;
+  height: 5.641vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle57 {
+  position: absolute;
+  left: 11.282vw;
+  top: 558.718vw;
+  width: 32.564vw;
+  height: 20vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle58 {
+  position: absolute;
+  left: 13.846vw;
+  top: 557.949vw;
+  width: 31.795vw;
+  height: 18.718vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.vehicleRegistration {
+  color: #000;
+  font-size: 3.846vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 14.103vw;
+  top: 564.359vw;
+  width: 31.538vw;
+  height: 5.641vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle60 {
+  position: absolute;
+  left: 53.077vw;
+  top: 602.564vw;
+  width: 31.795vw;
+  height: 20.256vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle61 {
+  position: absolute;
+  left: 55.385vw;
+  top: 601.538vw;
+  width: 31.282vw;
+  height: 19.487vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #906cd6;
+}
+.proofOfInsurance {
+  color: #000;
+  font-size: 3.846vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 59.487vw;
+  top: 608.462vw;
+  width: 23.846vw;
+  height: 5.897vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.vehicleRegistrationsExtended1 {
+  position: absolute;
+  left: 51.026vw;
+  top: 552.051vw;
+  width: 37.179vw;
+  height: 27.692vw;
+  border-radius: 7.692vw;
+  background-image:/* webpackIgnore: true */ url('/assets/vehicleRegistrationsExtended1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dIRECT_TN_Insurance_Card11 {
+  position: absolute;
+  left: 15.641vw;
+  top: 603.077vw;
+  width: 33.590vw;
+  height: 17.692vw;
+  background-image:/* webpackIgnore: true */ url('/assets/dIRECT_TN_Insurance_Card11.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle262 {
+  position: absolute;
+  left: 1.026vw;
+  top: 630.513vw;
+  width: 100vw;
+  height: 12.308vw;
+  background-color: #fff;
+}
+.yourRights {
+  color: #000;
+  font-size: 4.744vw;
+  font-weight: bold;
+  font-family: Comfortaa, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1.026vw;
+  top: 630.513vw;
+  width: 100vw;
+  height: 12.308vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle62 {
+  position: absolute;
+  left: 14.359vw;
+  top: 660.513vw;
+  width: 72.308vw;
+  height: 34.359vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.128vw;
+  background-color: #ff3636;
+}
+.rectangle63 {
+  position: absolute;
+  left: 16.410257vw;
+  top: 657.69226vw;
+  width: 72.5641vw;
+  height: 33.589745vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.rectangle65 {
+  position: absolute;
+  left: 17.435898vw;
+  top: 699.2308vw;
+  width: 72.5641vw;
+  height: 65.64103vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.everyPersonInTheVehicleHasTheR {
+  position: absolute;
+  left: 20.25641vw;
+  top: 670.7692vw;
+  width: 65.38461vw;
+  height: 5.3846154vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock3 {
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle68 {
+  position: absolute;
+  left: 16.153847vw;
+  top: 775.641vw;
+  width: 72.30769vw;
+  height: 34.615387vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #ff3636;
+}
+.rectangle69 {
+  position: absolute;
+  left: 18.205128vw;
+  top: 772.56415vw;
+  width: 72.5641vw;
+  height: 34.102566vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.allPassengersMayRequestToLeave {
+  color: #000;
+  font-size: 6.410257vw;
+  font-weight: bold;
+  font-family: Comfortaa, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.564102vw;
+  top: 717.6923vw;
+  width: 65.38461vw;
+  height: 9.48718vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle66 {
+  position: absolute;
+  left: 15.384616vw;
+  top: 705.1282vw;
+  width: 72.30769vw;
+  height: 62.82051vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #ff3636;
+}
+.rectangle67 {
+  position: absolute;
+  left: 17.435898vw;
+  top: 699.2308vw;
+  width: 72.5641vw;
+  height: 65.64103vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.allPassengersMayRequestToLeave2 {
+  position: absolute;
+  left: 21.794872vw;
+  top: 700vw;
+  width: 65.64103vw;
+  height: 61.28205vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock5 {
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.officersCannotLookThroughItems {
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 22.051283vw;
+  top: 787.17944vw;
+  width: 65.38461vw;
+  height: 5.6410255vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle70 {
+  position: absolute;
+  left: 15.384616vw;
+  top: 817.9487vw;
+  width: 72.30769vw;
+  height: 26.923079vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #ff3636;
+}
+.rectangle71 {
+  position: absolute;
+  left: 17.435898vw;
+  top: 815.641vw;
+  width: 72.5641vw;
+  height: 26.666668vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.officersCannotDeleteItemsOffYo {
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 21.282051vw;
+  top: 825.64105vw;
+  width: 65.64103vw;
+  height: 5.6410255vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle72 {
+  position: absolute;
+  left: 14.871796vw;
+  top: 853.3334vw;
+  width: 72.30769vw;
+  height: 28.97436vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #ff3636;
+}
+.rectangle73 {
+  position: absolute;
+  left: 16.923077vw;
+  top: 850.7692vw;
+  width: 72.5641vw;
+  height: 28.71795vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.ifArrestedOrDetainedYouHaveThe {
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.769232vw;
+  top: 862.0513vw;
+  width: 65.38461vw;
+  height: 5.6410255vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle74 {
+  position: absolute;
+  left: 14.871796vw;
+  top: 919.4872vw;
+  width: 70.25641vw;
+  height: 49.23077vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #ff3636;
+}
+.rectangle75 {
+  position: absolute;
+  left: 16.923077vw;
+  top: 914.87177vw;
+  width: 70.51282vw;
+  height: 51.025642vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.itIsYourRightToPhotographOrRec {
+  position: absolute;
+  left: 20.769232vw;
+  top: 934.359vw;
+  width: 63.589745vw;
+  height: 9.230769vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.textBlock10 {
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock12 {
+  margin-top: 0;
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.rectangle76 {
+  position: absolute;
+  left: 15.384616vw;
+  top: 978.2051vw;
+  width: 70.25641vw;
+  height: 37.17949vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #ff3636;
+}
+.rectangle77 {
+  position: absolute;
+  left: 17.435898vw;
+  top: 974.35895vw;
+  width: 70.51282vw;
+  height: 38.71795vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.officersCanTellCiviliansToStop {
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.512821vw;
+  top: 988.4615vw;
+  width: 63.589745vw;
+  height: 8.717949vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle78 {
+  position: absolute;
+  left: 15.384616vw;
+  top: 1027.4359vw;
+  width: 70.25641vw;
+  height: 38.71795vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #ff3636;
+}
+.rectangle79 {
+  position: absolute;
+  left: 17.435898vw;
+  top: 1023.5897vw;
+  width: 70.51282vw;
+  height: 40.256413vw;
+  outline: solid 4px #000;
+  outline-offset: -4px;
+  border-radius: 5.1282053vw;
+  background-color: #906cd6;
+}
+.ifYouFeelYourRightsHaveBeenVio {
+  color: #000;
+  font-size: 5.1282053vw;
+  font-weight: 600;
+  font-family: Blinker, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 20.512821vw;
+  top: 1039.7437vw;
+  width: 63.589745vw;
+  height: 8.9743595vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.rectangle263 {
+  position: absolute;
+  left: 1.5384616vw;
+  top: 893.3333vw;
+  width: 100vw;
+  height: 12.307693vw;
+  background-color: #fff;
+}
+.beAwareOf {
+  color: #000;
+  font-size: 4.74359vw;
+  font-weight: bold;
+  font-family: Comfortaa, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1.5384616vw;
+  top: 893.3333vw;
+  width: 100vw;
+  height: 12.307693vw;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

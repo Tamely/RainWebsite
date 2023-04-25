@@ -1,0 +1,15 @@
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\bin\Debug\net6.0\PxToVwConverter.exe
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\bin\Debug\net6.0\PxToVwConverter.deps.json
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\bin\Debug\net6.0\PxToVwConverter.runtimeconfig.json
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\bin\Debug\net6.0\PxToVwConverter.dll
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\bin\Debug\net6.0\PxToVwConverter.pdb
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\PxToVwConverter.csproj.AssemblyReference.cache
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\PxToVwConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\PxToVwConverter.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\PxToVwConverter.AssemblyInfo.cs
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\PxToVwConverter.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\PxToVwConverter.dll
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\refint\PxToVwConverter.dll
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\PxToVwConverter.pdb
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\PxToVwConverter.genruntimeconfig.cache
+C:\Users\joshu\Desktop\CamiCam\PxToVwConverter\PxToVwConverter\obj\Debug\net6.0\ref\PxToVwConverter.dll
